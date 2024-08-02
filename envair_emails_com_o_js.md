@@ -16,7 +16,8 @@ Existe uma solução muito simples para isso. Siga as etapas a seguir para envia
 
   
 # Use este código
-<div align="center"><img src="https://github.com/jeovanedossantossantos/answers-to-my-questions/assets/60934938/4c62ff64-dfba-4dfb-8415-e84556d251ca"/></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/8d495bde-46ef-4d9d-b1b1-8d4f4f526c8b"/></div>
+
 
 
 #
